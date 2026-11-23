@@ -13,14 +13,13 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: Addie Gemmell
 
-Date: 2026 October
+Date: 2026 November
 
 Sixth project in the Web Mining and Applied NLP course.
 
-This project introduces a complete natural language
-processing pipeline for working with web documents.
+This project introduces a complete natural language processing pipeline for working with web documents.
 
 The goal is to retrieve HTML,
 validate document structure,
@@ -28,6 +27,17 @@ extract and clean text,
 engineer NLP features,
 visualize patterns,
 and persist the results.
+
+### Planned Customization
+
+I would like to apply this pipeline to financial fraud research
+and explore how NLP could support fraud detection.
+
+- Analyze research related to financial scams and fraud prevention.
+- Identify recurring terminology associated with fraud risks.
+- Examine whether removing common words improves or limits
+  the interpretation of the text.
+- Use visualizations to communicate findings that could be useful from a financial fraud analyst's perspective.
 
 The project extends the EVTL approach
 from earlier modules by adding an explicit
