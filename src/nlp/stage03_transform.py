@@ -1,6 +1,7 @@
 """stage03_transform.py.
 
-(EDIT YOUR VERSION OF THIS FILE)
+# Author: Addie Gemmell
+# Date: 2026-11
 
 Source: validated BeautifulSoup object
 Sink:   analysis-ready Pandas DataFrame

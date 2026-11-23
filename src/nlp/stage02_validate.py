@@ -1,6 +1,7 @@
 """src/nlp/stage02_validate.py - Validate Stage.
 
-(EDIT YOUR VERSION OF THIS FILE)
+# Author: Addie Gemmell
+# Date: 2026-11
 
 Source: Raw HTML string
 Sink:   BeautifulSoup object (in memory)
